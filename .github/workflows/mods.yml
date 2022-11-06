@@ -21,4 +21,4 @@ jobs:
           prerelease: true
           title: ModPack Release
           files: |
-            ./WmeFabric*.jar
+            ./WmeFabric*.mrpack
