@@ -199,3 +199,23 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "bf1922d77e7e4b5667532dd6abd36f5cdff870314247d43a1cf50e9139e18458"
 metafile = true
+
+[[files]]
+file = "resourcepacks/default-dark-mode.pw.toml"
+hash = "f6aa8f305f16d2a81113581b1004d742f256eaff429ba9b5781635eb7b060fab"
+metafile = true
+
+[[files]]
+file = "resourcepacks/in-game-brewing-guide.pw.toml"
+hash = "7302026d64bb591e2e8b55ca6fb56f9758988918c4126b9a892670f2f3587241"
+metafile = true
+
+[[files]]
+file = "resourcepacks/redstone-tweaks.pw.toml"
+hash = "050bef3f1a0d86f6259a2c61cb4da9922d560b36b9e44668287dc9a58b260179"
+metafile = true
+
+[[files]]
+file = "resourcepacks/slightly-improved-font.pw.toml"
+hash = "6e24ae778c75cc884458cc506629d9bfd12b5caaf35a9484aa2ecdc1272300f7"
+metafile = true
