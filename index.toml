@@ -16,6 +16,11 @@ hash = "034bb649928db6d2f27cf2f18c6c3a17c7732602386347e94b09fdb112965ac3"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "3cbe3d523b39667928fcc34f71651b0e581e5c541dd5ecf17228464770466bc5"
+metafile = true
+
+[[files]]
 file = "mods/cosmetica.pw.toml"
 hash = "2f0007c8e114ff43d2ba0250a3db8a5c6ea75d2705429839f16b54a896adbf6c"
 metafile = true
@@ -38,6 +43,11 @@ metafile = true
 [[files]]
 file = "mods/easiervillagertrading.pw.toml"
 hash = "06614c130009ac62167aa8e192875f8677570d24c0937f37f24265b3dd23fb80"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "81a389a5035dc0852ce12c796f1d667bb4715b1d6ffde16433bf80f02e3796bc"
 metafile = true
 
 [[files]]
@@ -101,6 +111,11 @@ hash = "4716789e4a806c1cabcef27e67150215edb4c3d737e9a87d90f2f615d6c196cd"
 metafile = true
 
 [[files]]
+file = "mods/midnightcontrols.pw.toml"
+hash = "13cf5c8363c82bbd368b0cc7bc7a779bfabbee0a552471a976f41af58e6df1b6"
+metafile = true
+
+[[files]]
 file = "mods/mixin-conflict-helper.pw.toml"
 hash = "c7388b6ebb78040be98251fb064a009f3d7574133e15d2844e3fadf2929b2980"
 metafile = true
@@ -128,6 +143,11 @@ metafile = true
 [[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "cd2704a99b24207489be8c2b19167e04e241fc4385985fbb3761eda1ed92d26f"
+metafile = true
+
+[[files]]
+file = "mods/optigui.pw.toml"
+hash = "fc829d9bfa6e9c399324e64cc5feb01f01630fc0971c7286ac08b5575dcf89b2"
 metafile = true
 
 [[files]]
