@@ -5,6 +5,22 @@ file = "config/WildfireGender/21d0ff48-f77e-40eb-a61c-b72e190ff79e.json"
 hash = "975d32f874acd29258251fc7b0fad4f8d0ffe9605fe5b412f7a914ba09a74199"
 
 [[files]]
+file = "config/easiervillagertrading.json"
+hash = "65e82ba2a298c1079e308736833155089776932fc6c56a36f677cb91244e73c6"
+
+[[files]]
+file = "config/notenoughanimations.json"
+hash = "c6f2e3fc52a3b76d41cd670595e6cda9b076e283d753b2ba2ee4ad53b383bae1"
+
+[[files]]
+file = "config/sodium-extra-options.json"
+hash = "193f783686da50a8e27d36cfd23ce360b855c79e0e32709a499325be29bf1bc5"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "a3707eb1b542a29a22acd937ce43d2e73ccc145e122019041396cd53abcad795"
+
+[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "813c9e3195948559d0daeb5a03ac0169645719c01a9604bebc61ae71d03525a0"
 metafile = true
