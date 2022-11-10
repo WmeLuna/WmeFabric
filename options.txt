@@ -1,0 +1,4 @@
+resourcePacks:["vanilla","Fabric Mods","continuity/default","continuity/glass_pane_culling_fix","midnightcontrols/bedrock","midnightcontrols/legacy","file/Default-Dark-Mode-1.19-v1.3.4.zip","file/Brewing Guide.zip","file/Redstone Tweaks 2.2.1.zip","file/Slightly-Improved-Font-1.0.0.zip"]
+incompatibleResourcePacks:["file/Slightly-Improved-Font-1.0.0.zip"]
+maxFps:260
+darkMojangStudiosBackground:true
