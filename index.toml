@@ -26,8 +26,18 @@ hash = "e6ee4e0303ca4666aa8f53f1920d1abf23c00a2c197edac0ad246812cb329493"
 metafile = true
 
 [[files]]
+file = "mods/alltheunobtainables.pw.toml"
+hash = "0c7fd8d6dc08e5ae1ef15431ac4549b06cbb1fcbe04feee52906418327b32400"
+metafile = true
+
+[[files]]
 file = "mods/antighost.pw.toml"
 hash = "242e18d68cb8d218df43e713e97239631f8612384789068659c4898cfa49fcef"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "651bb1998c83a40530d6cb95d40bd13e2f0f8ab064e0efdd3630f648cbe7f4ed"
 metafile = true
 
 [[files]]
@@ -38,6 +48,11 @@ metafile = true
 [[files]]
 file = "mods/better-ping-display-fabric.pw.toml"
 hash = "9a65d0348c683efc848cfe5e09b19851e8642fa2307491636c2bdac0e8122046"
+metafile = true
+
+[[files]]
+file = "mods/brb.pw.toml"
+hash = "17ce0664c6d4715aaa97169808dae48d9703749eb72249abcaee110f82f56b03"
 metafile = true
 
 [[files]]
@@ -206,8 +221,23 @@ hash = "0568443a68c429253e10bee7655f0baf669f1fd8dd06b39cb83423f6c522cadc"
 metafile = true
 
 [[files]]
+file = "mods/rainbow-shenanigans.pw.toml"
+hash = "67ee856a1e900179737414737a040c8707805ca438436e8aaf13b5214189a0e3"
+metafile = true
+
+[[files]]
+file = "mods/rbip.pw.toml"
+hash = "b379e359d8972222b40a1eee8f7d9d2e790ea3282334e2cc99e6ebb7f24b9e93"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "1c6d01b013b9e8c6dd921046adc7c7768814c17a0fde45cbe695c8e2de40f8be"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "1aae05e6f09e1883875e38bb77479d049fbc64d60a2215133fa747ed512205b2"
 metafile = true
 
 [[files]]

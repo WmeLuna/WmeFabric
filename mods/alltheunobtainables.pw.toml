@@ -1,0 +1,13 @@
+name = "All The Unobtainables"
+filename = "all-the-unobtainables-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gcoUaqs1/versions/1.1.2/all-the-unobtainables-1.1.2.jar"
+hash-format = "sha1"
+hash = "6a9e80c1cb29f48b6a05ac0639fc2245155ec62a"
+
+[update]
+[update.modrinth]
+mod-id = "gcoUaqs1"
+version = "v4UGB3OQ"
