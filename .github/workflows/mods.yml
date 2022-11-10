@@ -10,7 +10,7 @@ jobs:
           go-version: 1.18
       - run: | 
           go install github.com/packwiz/packwiz@latest
-          packwiz update --all
+          packwiz update --all -y
           packwiz refresh
       - run: |
           git config --local user.email '41898282+github-actions[bot]@users.noreply.github.com'
