@@ -246,6 +246,10 @@ hash = "bf1922d77e7e4b5667532dd6abd36f5cdff870314247d43a1cf50e9139e18458"
 metafile = true
 
 [[files]]
+file = "options.txt"
+hash = "bd8c29de1df0546fce6aeb8a903d0b7a7fed293f2dd2759f3a64b839ac2bad87"
+
+[[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
 hash = "f6aa8f305f16d2a81113581b1004d742f256eaff429ba9b5781635eb7b060fab"
 metafile = true
