@@ -9,6 +9,10 @@ file = "config/easiervillagertrading.json"
 hash = "65e82ba2a298c1079e308736833155089776932fc6c56a36f677cb91244e73c6"
 
 [[files]]
+file = "config/isxander-main-menu-credits.json"
+hash = "8ce9d11feb16dece2337159de08ea67ed0306a5e4329764afeb71dfe48f692af"
+
+[[files]]
 file = "config/notenoughanimations.json"
 hash = "c6f2e3fc52a3b76d41cd670595e6cda9b076e283d753b2ba2ee4ad53b383bae1"
 
@@ -122,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "affd68e9c1f17994031a066f18788f63649099d8ebc0f131e5db49c89f1be8e6"
+hash = "38b47904f9da83c5e1f565c7f9fb066921fa1383712ce7a30ddf6f10bfea0bb5"
 metafile = true
 
 [[files]]
@@ -167,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "ce0302a48e6287e497c3936f481287763509336fd5d4ce79b283fb51af710455"
+hash = "d2a65b42dcefbda9ac5c170ff5bf59b4a56ba192993a13d0b0da9b1f0678b4b3"
 metafile = true
 
 [[files]]
@@ -202,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "29343584d66805c0d453bbd6a04bde62119a372ad6f2be32203a057cd5dd639b"
+hash = "1aa7510ec1a3994273a20f8b341f676583b9ede2eaea3badd46deb7178d92a6c"
 metafile = true
 
 [[files]]
@@ -217,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughcrashes.pw.toml"
-hash = "cd2704a99b24207489be8c2b19167e04e241fc4385985fbb3761eda1ed92d26f"
+hash = "a2e4e7b3b072d44a518ac1313c88d6f3b17727d554f700d91c7b4eb3588de50c"
 metafile = true
 
 [[files]]
@@ -292,7 +296,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "bf1922d77e7e4b5667532dd6abd36f5cdff870314247d43a1cf50e9139e18458"
+hash = "3ad339b78b648c3a9f1d938ec24fa0933e2eeebfb1b814a4be66185c91ac2d39"
 metafile = true
 
 [[files]]
