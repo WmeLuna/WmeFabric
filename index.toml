@@ -205,6 +205,11 @@ hash = "4ff1e58c9c7fdce5cd5a392987c3013d02ce63ee2ed4149098389a85caac2838"
 metafile = true
 
 [[files]]
+file = "mods/niceload.pw.toml"
+hash = "9638b4d155d3af277c6475ff5dbb50b8fcdb50106f5169491cdf1d05cc3f23f1"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "1aa7510ec1a3994273a20f8b341f676583b9ede2eaea3badd46deb7178d92a6c"
 metafile = true
