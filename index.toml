@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/TitleChanger/config.json5"
+hash = "77a1befc192f06862333764c105135503624e78af41e9a9db35d3852573870aa"
+
+[[files]]
 file = "config/WildfireGender/21d0ff48-f77e-40eb-a61c-b72e190ff79e.json"
 hash = "93ba299a29a48e675e699e017f089a843f335830d858e1eef7dffaa01c820a70"
 
