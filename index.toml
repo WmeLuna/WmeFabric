@@ -328,7 +328,23 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "bd8c29de1df0546fce6aeb8a903d0b7a7fed293f2dd2759f3a64b839ac2bad87"
+hash = "ec3308609f7db8417a4e691c995351269c8f7450d81695af2b824ec636791988"
+
+[[files]]
+file = "resourcepacks/WmeFabric/assets/sodium-extra/lang/en_us.json"
+hash = "be6d9031b9451ef2127ee69b4b1343edf8cb389a76b3a947be80b181083a197d"
+
+[[files]]
+file = "resourcepacks/WmeFabric/assets/unobtainables/lang/en_us.json"
+hash = "03993550ad80bb363168a1b5baad68eef58f3495eb15ba1653883e47bb266491"
+
+[[files]]
+file = "resourcepacks/WmeFabric/pack.mcmeta"
+hash = "f29f4bf9113383e1061641d37a638a2a67ca1bef1357eefb93eda14e5c455557"
+
+[[files]]
+file = "resourcepacks/WmeFabric/pack.png"
+hash = "d02032386352dafcca365ba30ee287868026784a326f15305a0f57ec3b35b440"
 
 [[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
