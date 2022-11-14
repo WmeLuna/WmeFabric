@@ -1,1 +1,16 @@
-{"username":"21d0ff48-f77e-40eb-a61c-b72e190ff79e","gender":0,"bust_size":1.0,"hurt_sounds":true,"breasts_xOffset":0.0175784,"breasts_yOffset":0.030920042,"breasts_zOffset":-0.54457736,"breasts_uniboob":false,"breasts_cleavage":0.0,"breast_physics":true,"breast_physics_armor":true,"show_in_armor":true,"bounce_multiplier":0.13477051,"floppy_multiplier":0.9}
+{
+  "username": "21d0ff48-f77e-40eb-a61c-b72e190ff79e",
+  "gender": 0,
+  "bust_size": 1.0,
+  "hurt_sounds": true,
+  "breasts_xOffset": 0.0175784,
+  "breasts_yOffset": 0.030920042,
+  "breasts_zOffset": -0.54457736,
+  "breasts_uniboob": false,
+  "breasts_cleavage": 0.0,
+  "breast_physics": true,
+  "breast_physics_armor": true,
+  "show_in_armor": true,
+  "bounce_multiplier": 0.13477051,
+  "floppy_multiplier": 0.9
+}
