@@ -75,6 +75,11 @@ hash = "9a65d0348c683efc848cfe5e09b19851e8642fa2307491636c2bdac0e8122046"
 metafile = true
 
 [[files]]
+file = "mods/bettercommandblockui.pw.toml"
+hash = "b3195b4c11fae6ae753dc3ba2a40d2721c12619233cd78918d4ea95e68e87299"
+metafile = true
+
+[[files]]
 file = "mods/brb.pw.toml"
 hash = "17ce0664c6d4715aaa97169808dae48d9703749eb72249abcaee110f82f56b03"
 metafile = true
