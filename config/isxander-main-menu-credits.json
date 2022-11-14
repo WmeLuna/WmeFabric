@@ -2,8 +2,8 @@
   "main_menu": {
     "top_left": [],
     "top_right": [],
-    "bottom_left": [],
-    "bottom_right": ["WmeFabric"],
+    "bottom_left": ["WmeFabric"],
+    "bottom_right": [],
     "mod_blacklist": []
   },
   "pause_menu": {
