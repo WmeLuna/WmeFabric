@@ -2,7 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/WildfireGender/21d0ff48-f77e-40eb-a61c-b72e190ff79e.json"
-hash = "975d32f874acd29258251fc7b0fad4f8d0ffe9605fe5b412f7a914ba09a74199"
+hash = "93ba299a29a48e675e699e017f089a843f335830d858e1eef7dffaa01c820a70"
+
+[[files]]
+file = "config/brb.toml"
+hash = "0281f9e3bfba701922c6dd80d8bb5097270c001bb768da4e9b0184e820cf0409"
+
+[[files]]
+file = "config/chat_heads.json5"
+hash = "fb2cefc5c2169c7e52e88475d9d0f19c2c78e08ed2834bd7ab1ce05bf9528592"
 
 [[files]]
 file = "config/easiervillagertrading.json"
@@ -91,11 +99,6 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "783c0415795fc4bea6d85315aac54d3a3f2770fcd02d66dad1f626b311f8bf4f"
-metafile = true
-
-[[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "bf466c25f51d243f814c775ea0b24bc98846b2f8de550c6c45c9ad421562e313"
 metafile = true
 
 [[files]]
