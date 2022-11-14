@@ -13,6 +13,10 @@ file = "config/isxander-main-menu-credits.json"
 hash = "8ce9d11feb16dece2337159de08ea67ed0306a5e4329764afeb71dfe48f692af"
 
 [[files]]
+file = "config/logcleaner.json"
+hash = "dda2b7da723263586760c2c3545265d05afc8ff19fb101add4be2bad614c959b"
+
+[[files]]
 file = "config/notenoughanimations.json"
 hash = "c6f2e3fc52a3b76d41cd670595e6cda9b076e283d753b2ba2ee4ad53b383bae1"
 
