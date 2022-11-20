@@ -59,6 +59,11 @@ hash = "0c7fd8d6dc08e5ae1ef15431ac4549b06cbb1fcbe04feee52906418327b32400"
 metafile = true
 
 [[files]]
+file = "mods/amecs.pw.toml"
+hash = "65b0ccc80e7bb51344fc138cfe952a6c9cfea23db0282a8852799be0cca29b85"
+metafile = true
+
+[[files]]
 file = "mods/antighost.pw.toml"
 hash = "242e18d68cb8d218df43e713e97239631f8612384789068659c4898cfa49fcef"
 metafile = true
@@ -86,6 +91,11 @@ metafile = true
 [[files]]
 file = "mods/brb.pw.toml"
 hash = "17ce0664c6d4715aaa97169808dae48d9703749eb72249abcaee110f82f56b03"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "01ab4442937c2d1f582722d139c0d02b3fc36c61a3eeebb4e81bd5256b7d8470"
 metafile = true
 
 [[files]]
@@ -259,6 +269,11 @@ hash = "4ff1e58c9c7fdce5cd5a392987c3013d02ce63ee2ed4149098389a85caac2838"
 metafile = true
 
 [[files]]
+file = "mods/moreculling.pw.toml"
+hash = "741381be667a7b124ce60ba17fca9207369bd6ead4e58ce64fa140aff95f8159"
+metafile = true
+
+[[files]]
 file = "mods/niceload.pw.toml"
 hash = "9638b4d155d3af277c6475ff5dbb50b8fcdb50106f5169491cdf1d05cc3f23f1"
 metafile = true
@@ -349,8 +364,18 @@ hash = "f76293001a405fa99903869bc8d5f3caa2976f0179513f73f59fc82dfbce9f72"
 metafile = true
 
 [[files]]
+file = "mods/visuality.pw.toml"
+hash = "f0c490ddd5aa6bfd096059967f8e954b6771bcf2201ae9a6dd195e6e1b22a908"
+metafile = true
+
+[[files]]
 file = "mods/vivecraft.pw.toml"
 hash = "f536424a74781ff42a00ae94f482d78c6d12a4dec65d363e51ffd7011f155733"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "c887fcea6968ff6069e59c9398f4b57dae4f3038e5f80453a074d35284b5acf4"
 metafile = true
 
 [[files]]
