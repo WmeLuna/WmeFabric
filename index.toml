@@ -169,8 +169,8 @@ hash = "90068106eae53049183a19b523d6b8cc4288b1868dcc94a76b1770064cdabf01"
 metafile = true
 
 [[files]]
-file = "mods/female-gender.pw.toml"
-hash = "914665452a59785158b78fc3ccea1ede079768ee908888237880ec033c5b1216"
+file = "mods/female-gender-fabric.pw.toml"
+hash = "5d8f1d30510236b485d6e109baf3104aab23b582987fbe139907f4ba9298c72b"
 metafile = true
 
 [[files]]
