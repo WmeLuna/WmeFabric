@@ -1,0 +1,11 @@
+{
+    "Generic": {
+      "mainRenderingToggle": {
+        "enabled": false
+      }
+    },
+    "RendererToggles": {
+      "overlaySlimeChunks": true
+    },
+    "config_version": 1
+  }
