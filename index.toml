@@ -29,6 +29,10 @@ file = "config/yosbr/config/easiervillagertrading.json"
 hash = "65e82ba2a298c1079e308736833155089776932fc6c56a36f677cb91244e73c6"
 
 [[files]]
+file = "config/yosbr/config/minihud.json"
+hash = "4950e9fd03e38d59f0262a0f2d000ec181d3a82c4f7d039b97e8d15634bfdfba"
+
+[[files]]
 file = "config/yosbr/config/notenoughanimations.json"
 hash = "c6f2e3fc52a3b76d41cd670595e6cda9b076e283d753b2ba2ee4ad53b383bae1"
 
@@ -146,12 +150,12 @@ metafile = true
 
 [[files]]
 file = "mods/fastanim.pw.toml"
-hash = "eff34655a27563df3b1044015998fb1a627e9a04fff1ecb438ed14a34be555d0"
+hash = "b8349aec4f2514d79cc03759dc9da5c77ed3109da61ee242fdf3aa77dd997862"
 metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "38b47904f9da83c5e1f565c7f9fb066921fa1383712ce7a30ddf6f10bfea0bb5"
+hash = "90068106eae53049183a19b523d6b8cc4288b1868dcc94a76b1770064cdabf01"
 metafile = true
 
 [[files]]
@@ -186,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "3d195b45c6dff7ee5a52dcb9e57a4172c91ec8d5c9d17c97305ee674fc22a357"
+hash = "0bb13d0459be9af19faf40ea8e83b8bf29922b378dcbe9e430fc7de11d98dac3"
 metafile = true
 
 [[files]]
@@ -231,7 +235,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "4716789e4a806c1cabcef27e67150215edb4c3d737e9a87d90f2f615d6c196cd"
+hash = "8fca044c06687f1e0f645ea179fa96a73abe84c7e4e4c982633868c150553732"
 metafile = true
 
 [[files]]
@@ -326,7 +330,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "99c83e926faf4565a4a75f8666a9c68721c3effdeece027509e23c5d50395321"
+hash = "fbc7cf43256806a71a7ea1ee1c05bccfd94be736c5def2c2a5ed1908753e501f"
 metafile = true
 
 [[files]]
@@ -351,7 +355,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "3ad339b78b648c3a9f1d938ec24fa0933e2eeebfb1b814a4be66185c91ac2d39"
+hash = "afc5f3bf4cae41e848070a109287bc6607c2f46045fc452da5d43189358adcb6"
 metafile = true
 
 [[files]]
