@@ -209,11 +209,6 @@ hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
 metafile = true
 
 [[files]]
-file = "mods/linsapi.pw.toml"
-hash = "778e990aff1aea8f98791fef34ff4a4480c89268a8a451efacad3f5cbe371ad1"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "d2a65b42dcefbda9ac5c170ff5bf59b4a56ba192993a13d0b0da9b1f0678b4b3"
 metafile = true
@@ -231,11 +226,6 @@ metafile = true
 [[files]]
 file = "mods/malilib.pw.toml"
 hash = "3926d859126491c673d921c3f3f93316766689ff0694f83d82255ec4776d3c74"
-metafile = true
-
-[[files]]
-file = "mods/mctitlechanger.pw.toml"
-hash = "4262f41e2d11e49958c75c5fc695a840dc569ab7da30df6a4770495328c2b54d"
 metafile = true
 
 [[files]]
